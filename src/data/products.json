@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Caminha para Gatos",
+      "category": "Camas",
+      "price": 199.99,
+      "image": "https://lojamundoluna.com.br/cdn/shop/files/mundoluna_10_700x.jpg?v=1700772930",
+      "description": "Um arranhador robusto e elegante para manter seu gato entretido."
+    },
+    {
+      "id": 2,
+      "name": "Arranhador",
+      "category": "Cuidados",
+      "price": 149.99,
+      "image": "https://82975.cdn.lojaquevende.com.br/static/82975/sku/4dc0ff75c15b0ac21564b4ddddff7821.jpg",
+      "description": "Uma cama aconchegante para os momentos de descanso do seu gato."
+    },
+    {
+      "id": 3,
+      "name": "Fonte de Água",
+      "category": "Cuidados",
+      "price": 49.99,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_869582-MLA79581627184_102024-O.webp",
+      "description": "Um brinquedo interativo que mantém seu gato ativo e entretido."
+    }
+  ]
+  
